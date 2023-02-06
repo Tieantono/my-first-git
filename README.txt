@@ -6,3 +6,5 @@ This is my another text.
 An another text!
 
 This is a text added from GitHub.
+
+This is a text added from branch named "from-remote-branch".
