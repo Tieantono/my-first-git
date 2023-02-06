@@ -4,3 +4,5 @@ This is my first Git!
 This is my another text.
 
 An another text!
+
+This is a text added from GitHub.
